@@ -28,6 +28,6 @@
 
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Practica 5 Aplicación en Flutter y StatelesWidgets |
-| Descripción  | Aplicacion en flutter Stateleswidgets, realizada las investigaciones sobre los stateleswidgets, se realizo una aplicacion la cual contenia ciertos tipos de los mismos, donde cada uno de ellos mostraba cierta información en la pastalla con la cual no podemos tener ciertp tipo de interacción.  |
-|  Fecha de Carga | 19/09/23  |
+| Nombre  |  Tarea 5 Aplicación en Flutter y StatelesWidgets |
+| Descripción  | Esta aplicación fue creada con Flutter con la finalidad de poder mostrar un ejemplo de una aplicación que utiliza un botón personalizado para cambiar de imagen y un carrusel para también poder cambiar de imágenes. El botón cambia su texto cada vez que el usuario presiona, y el carrusel de imágenes permite al usuario se desplazarse a través de una serie de imágenes. La aplicación utiliza un StatefulWidget para poder mantener el estado interno y demostrar cómo actualizar la interfaz de usuario en respuesta a las interacciones del usuario.  |
+|  Fecha de Carga | 21/09/23  |
