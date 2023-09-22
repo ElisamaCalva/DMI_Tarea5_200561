@@ -15,9 +15,9 @@
 
 ## Captura de Pantalla
 <p align="center">
-  <img src="./assets/1.png" width="200" alt="Captura de Pantalla 1">
-  <img src="./assets/2.png" width="200" alt="Captura de Pantalla 1">
-  <img src="./assets/3.png" width="200" alt="Captura de Pantalla 1">
+  <img src="./assets/a.png" width="200" alt="Captura de Pantalla 1">
+  <img src="./assets/b.png" width="200" alt="Captura de Pantalla 1">
+  <img src="./assets/c.png" width="200" alt="Captura de Pantalla 1">
 </p>
 
 
